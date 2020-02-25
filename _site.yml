@@ -6,7 +6,7 @@ left:
   - text: "Home"
 href: index.html
 - text: "Speed and Distance"
-href: speed-and-distance.html
+href: ards2020.html
 output:
   html_document:
   theme: cosmo
