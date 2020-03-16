@@ -1,14 +1,10 @@
-<<<<<<< HEAD
----
-title: "ARDS"
-output:
-  pdf_document: default
-  html_document: default
-=======
-title: "ards2020"
->>>>>>> f59ddb2bb60292fa11c912d1a5436279ed5978ba
+title: "index"
+output: html_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## R Markdown
 
@@ -28,12 +24,4 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-<<<<<<< HEAD
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-=======
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-
-tinytex::install_tinytex()
-cc
->>>>>>> f59ddb2bb60292fa11c912d1a5436279ed5978ba
